@@ -1,0 +1,8 @@
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\bin\Debug\JenKinsTestApp.exe.config
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\bin\Debug\JenKinsTestApp.exe
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\bin\Debug\JenKinsTestApp.pdb
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\obj\Debug\JenKinsTestApp.csprojResolveAssemblyReference.cache
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\obj\Debug\JenKinsTestApp.Properties.Resources.resources
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\obj\Debug\JenKinsTestApp.csproj.GenerateResource.Cache
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\obj\Debug\JenKinsTestApp.exe
+c:\users\laon\documents\visual studio 2013\Projects\JenKinsTestApp\JenKinsTestApp\obj\Debug\JenKinsTestApp.pdb
